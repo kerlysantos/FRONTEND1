@@ -1,0 +1,28 @@
+header{
+    background-color: #C4C4C4;
+    color: #E5E5E5;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+h1 {
+    background-color: #C4C4C4;
+    color: #005677;
+    font-style: normal;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif
+
+}
+
+h3 {
+    background-color: #C4C4C4;
+    color: #005677;
+    font-style: normal;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+footer {
+    background-color:  #005677;
+
+}
